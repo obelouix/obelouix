@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 [![obelouix github stats](https://github-readme-stats.vercel.app/api?username=obelouix)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obelouix)](https://github.com/anuraghazra/github-readme-stats)
 <!--
